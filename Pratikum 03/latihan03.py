@@ -30,7 +30,7 @@ else:
     print("Oalah..Anda masih anak-anak toh?")
     print("Jangan suka merengek-rengek minta jajan ya!!")
 
-time.sleep(4)
+time.sleep(3)
 
 print("Oke...see you letter", nama, "..senang berkenalan dengan kamu")
 
