@@ -15,7 +15,7 @@ ta=int(input('Tebakan Anda : '))
 kurangpoin=0
 #membuat perulangan
 #jika perulangan terjadi karena nilai yang di masukkan memenuhi syarat perulangan
-#dan membuat jika salah dan  benar mendapatkan poin, terus nanti di kurangin poin 100
+#dan membuat jika salah mendapatkan poin, terus nanti di kurangin poin benar 100
 while True:
     if(ta<10):
         print('Heheheheh.....Bilangan tebakan anda terlalu kecil')
