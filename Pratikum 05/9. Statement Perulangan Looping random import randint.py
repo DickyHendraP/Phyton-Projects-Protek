@@ -1,4 +1,4 @@
-#menghitung perulangan sebarapa banyak
+#Program menghitung perulangan sebarapa banyak
 from random import randint
 perulangan = 0 
 while True :
