@@ -1,4 +1,4 @@
-#Program untuk menyimpan data pinjaman buku (maksimal pengembilan 7 hari)
+#Program untuk menyimpan data pinjaman buku (maksimal pengembalian 7 hari)
 
 #Mengimport datetime dan os
 from datetime import  *
